@@ -51,6 +51,16 @@
                 </div>
             </div>
         </div>
+
+        <!-- Carousel Navigation Controls -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev" style="background: rgba(0,0,0,0.5); width: 40px; height: 40px; border-radius: 50%; margin: auto 10px;">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next" style="background: rgba(0,0,0,0.5); width: 40px; height: 40px; border-radius: 50%; margin: auto 10px;">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
     </div>
     <!-- <div class="container px-4 mt-3 mt-sm-4 mt-md-5"> -->
         <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4 justify-content-center">
@@ -72,8 +82,8 @@
                     <img src="<?=BASEURL;?>/image/f2r.jpg" class="card-img-top"></img>
                     <div class="card-body">
                         <h5 class="card-title">AVOCADO FIESTA HOTDOG</h5>
-                        <p class="card-text">Avocado Fiesta Hot Dog ini adalah hot dog unik yang dipenuhi topping alpukat segar, 
-                            <span>potongan tomat, bawang cincang, dan jamur yang lembut. Disajikan dengan kentang wedges 
+                        <p class="card-text">Avocado Fiesta Hot Dog ini adalah hot dog unik yang dipenuhi topping alpukat segar,
+                            <span>potongan tomat, bawang cincang, dan jamur yang lembut. Disajikan dengan kentang wedges
                             berbumbu di sampingnya, makanan ini semakin lezat dengan tambahan saus keju creamy.</span></p>
                         <a href="<?=BASEURL;?>/produk" class="btn btn-primary">See Detail</a>
                     </div>
@@ -84,7 +94,7 @@
                     <img src="<?=BASEURL;?>/image/f3r.jpg" class="card-img-top"></img>
                     <div class="card-body">
                         <h5 class="card-title">FRENCH FRIES PARMESAN</h5>
-                        <p class="card-text">French Fries Parmesan ini adalah kentang goreng yang disajikan dengan taburan keju parmesan dan potongan daun peterseli segar di atasnya, 
+                        <p class="card-text">French Fries Parmesan ini adalah kentang goreng yang disajikan dengan taburan keju parmesan dan potongan daun peterseli segar di atasnya,
                             memberikan rasa gurih dan aroma yang menggugah selera.</p>
                         <a href="<?=BASEURL;?>/produk" class="btn btn-primary">See Detail</a>
                     </div>
@@ -95,7 +105,7 @@
                     <img src="<?=BASEURL;?>/image/f4r.jpg" class="card-img-top"></img>
                     <div class="card-body">
                         <h5 class="card-title">LIME MOJITO</h5>
-                        <p class="card-text">Lime Mojito ini adalah minuman segar yang terbuat dari campuran air soda, 
+                        <p class="card-text">Lime Mojito ini adalah minuman segar yang terbuat dari campuran air soda,
                             perasan jeruk nipis, daun mint, dan es batu. Minuman ini memberikan sensasi kesegaran yang ideal untuk melepas dahaga.</p>
                         <a href="<?=BASEURL;?>/produk" class="btn btn-primary">See Detail</a>
                     </div>
