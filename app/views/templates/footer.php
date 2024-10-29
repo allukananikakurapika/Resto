@@ -16,27 +16,22 @@
             <div class="col-12 col-md-6">
                 <ul class="nav justify-content-center justify-content-md-end list-unstyled d-flex flex-wrap mb-0">
                     <li class="ms-3">
-                        <a href="#" class="text-body-secondary text-decoration-none">
+                        <a href="https://x.com/wouldyoubemymj" class="text-body-secondary text-decoration-none" target="_blank">
                             <i class="bi bi-twitter"></i>
                             <span class="ms-1">Twitter</span>
                         </a>
                     </li>
                     <li class="ms-3">
-                        <a href="#" class="text-body-secondary text-decoration-none">
+                        <a href="https://www.instagram.com/narendraryaaa/" class="text-body-secondary text-decoration-none" target="_blank">
                             <i class="bi bi-instagram"></i>
                             <span class="ms-1">Instagram</span>
                         </a>
                     </li>
                     <li class="ms-3">
-                        <a href="#" class="text-body-secondary text-decoration-none">
+                        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=narendraarya20@gmail.com&su=Judul%20Email&body=Isi%20email%20di%20sini" 
+                        class="text-body-secondary text-decoration-none" target="_blank">
                             <i class="bi bi-envelope"></i>
                             <span class="ms-1">Gmail</span>
-                        </a>
-                    </li>
-                    <li class="ms-3">
-                        <a href="#" class="text-body-secondary text-decoration-none">
-                            <i class="bi bi-facebook"></i>
-                            <span class="ms-1">Facebook</span>
                         </a>
                     </li>
                 </ul>

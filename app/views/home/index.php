@@ -19,8 +19,8 @@
             <div class="carousel-item active">
                 <img src="<?=BASEURL;?>/image/f1.jpg" class="d-block w-100 img-fluid" alt="Slide 1">
                 <div class="carousel-caption d-block">
-                    <h5 class="d-none d-sm-block">Slide 1</h5>
-                    <p class="d-none d-sm-block">Description for slide 1.</p>
+                    <h5 class="d-none d-sm-block">PAKET 1</h5>
+                    <p class="d-none d-sm-block">BEEF KARL BURGER</p>
                 </div>
             </div>
 
@@ -28,8 +28,8 @@
             <div class="carousel-item">
                 <img src="<?=BASEURL;?>/image/f2.jpg" class="d-block w-100 img-fluid" alt="Slide 2">
                 <div class="carousel-caption d-block">
-                    <h5 class="d-none d-sm-block">Slide 2</h5>
-                    <p class="d-none d-sm-block">Description for slide 2.</p>
+                    <h5 class="d-none d-sm-block">PAKET 2</h5>
+                    <p class="d-none d-sm-block">AVOCADO FIESTA HOTDOG</p>
                 </div>
             </div>
 
@@ -37,8 +37,8 @@
             <div class="carousel-item">
                 <img src="<?=BASEURL;?>/image/f3.jpg" class="d-block w-100 img-fluid" alt="Slide 3">
                 <div class="carousel-caption d-block">
-                    <h5 class="d-none d-sm-block">Slide 3</h5>
-                    <p class="d-none d-sm-block">Description for slide 3.</p>
+                    <h5 class="d-none d-sm-block">PAKET 3</h5>
+                    <p class="d-none d-sm-block">FRENCH FRIES PARMESAN</p>
                 </div>
             </div>
 
@@ -46,8 +46,8 @@
             <div class="carousel-item">
                 <img src="<?=BASEURL;?>/image/d1.jpg" class="d-block w-100 img-fluid" alt="Slide 4">
                 <div class="carousel-caption d-block">
-                    <h5 class="d-none d-sm-block">Slide 4</h5>
-                    <p class="d-none d-sm-block">Description for slide 4.</p>
+                    <h5 class="d-none d-sm-block">New Comer </h5>
+                    <p class="d-none d-sm-block">LIME MOJITO</p>
                 </div>
             </div>
         </div>
@@ -56,41 +56,48 @@
         <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4 justify-content-center">
             <div class="col">
                 <div class="card h-100">
-                    <video src="<?=BASEURL;?>/image/8.mp4" class="card-img-top" autoplay muted loop></video>
+                    <img src="<?=BASEURL;?>/image/f1r.jpg" class="card-img-top"></img>
                     <div class="card-body">
-                        <h5 class="card-title">Naren Jatuh Cinta</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="<?=BASEURL;?>/about" class="btn btn-primary">Go somewhere</a>
+                        <h5 class="card-title">BEEF KARL BURGER</h5>
+                        <p class="card-text"> Beef Karl Burger ini merupakan sajian yang menggugah selera,<br>
+                            <span>erdiri dari patty daging sapi panggang yang juicy, dilapisi dengan keju leleh,  potongan selada segar,</span><span>
+                            dan disajikan dalam roti yang lembut, lengkap dengan kentang goreng renyah di sampingnya.
+                            </span></p>
+                        <a href="<?=BASEURL;?>/produk" class="btn btn-primary">See Detail</a>
                     </div>
                 </div>
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <video src="<?=BASEURL;?>/image/7.mp4" class="card-img-top" autoplay muted loop></video>
+                    <img src="<?=BASEURL;?>/image/f2r.jpg" class="card-img-top"></img>
                     <div class="card-body">
-                        <h5 class="card-title">Naren Jatuh Cinta</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <h5 class="card-title">AVOCADO FIESTA HOTDOG</h5>
+                        <p class="card-text">Avocado Fiesta Hot Dog ini adalah hot dog unik yang dipenuhi topping alpukat segar, 
+                            <span>potongan tomat, bawang cincang, dan jamur yang lembut. Disajikan dengan kentang wedges 
+                            berbumbu di sampingnya, makanan ini semakin lezat dengan tambahan saus keju creamy.</span></p>
+                        <a href="<?=BASEURL;?>/produk" class="btn btn-primary">See Detail</a>
                     </div>
                 </div>
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <video src="<?=BASEURL;?>/image/6.mp4" class="card-img-top" autoplay muted loop></video>
+                    <img src="<?=BASEURL;?>/image/f3r.jpg" class="card-img-top"></img>
                     <div class="card-body">
-                        <h5 class="card-title">Naren Jatuh Cinta</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <h5 class="card-title">FRENCH FRIES PARMESAN</h5>
+                        <p class="card-text">French Fries Parmesan ini adalah kentang goreng yang disajikan dengan taburan keju parmesan dan potongan daun peterseli segar di atasnya, 
+                            memberikan rasa gurih dan aroma yang menggugah selera.</p>
+                        <a href="<?=BASEURL;?>/produk" class="btn btn-primary">See Detail</a>
                     </div>
                 </div>
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <video src="<?=BASEURL;?>/image/5.mp4" class="card-img-top" autoplay muted loop></video>
+                    <img src="<?=BASEURL;?>/image/f4r.jpg" class="card-img-top"></img>
                     <div class="card-body">
-                        <h5 class="card-title">Naren Jatuh Cinta</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <h5 class="card-title">LIME MOJITO</h5>
+                        <p class="card-text">Lime Mojito ini adalah minuman segar yang terbuat dari campuran air soda, 
+                            perasan jeruk nipis, daun mint, dan es batu. Minuman ini memberikan sensasi kesegaran yang ideal untuk melepas dahaga.</p>
+                        <a href="<?=BASEURL;?>/produk" class="btn btn-primary">See Detail</a>
                     </div>
                 </div>
             </div>
